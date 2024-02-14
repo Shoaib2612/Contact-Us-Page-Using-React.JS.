@@ -1,0 +1,16 @@
+nav{
+    padding: 0 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* navbar height is 72 px in figma */
+    height: 72px;
+  
+  }
+  nav ul{
+    display: flex;
+    /* to remove bullet points */
+    list-style-type: none;
+    gap: 24px;
+    font-weight: 500;
+  }
